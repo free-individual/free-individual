@@ -4,8 +4,10 @@ Currently, I am in the final year of my degree, specializing in Artificial Intel
 
 ## 🛠️ My Toolkit
 **Languages:** Python, Java  
-**Libraries:** Pandas, Scikit-learn  
-**Concepts Explored:** Data Cleaning, Data Analysis, Machine Learning
+**Libraries:** Pandas, Matplotlib, Seaborn, Scikit-learn  
+
+## Concepts explored: 
+Data Cleaning, Data Analysis, Machine Learning
 
 ## 📂 My Featured Projects
 
