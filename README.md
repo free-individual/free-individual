@@ -1,6 +1,7 @@
 ## Hi, I am Nikhil Shendage.
 
-Currently, I am in the final year of my degree, specializing in Artificial Intelligence and Data Science. I am an aspiring Machine Learning engineer passionate about leveraging data to tackle real-world problems.
+Currently I am in the final year of my degree specializing in Artificial Intelligence and Data Science. 
+I am an aspiring Machine Learning engineer passionate about leveraging data to tackle real-world problems.
 
 ## 🛠️ My Toolkit
 **Languages:** Python, Java  
